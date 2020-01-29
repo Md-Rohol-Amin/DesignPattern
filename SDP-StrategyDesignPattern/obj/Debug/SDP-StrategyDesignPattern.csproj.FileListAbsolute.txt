@@ -1,0 +1,6 @@
+C:\Users\rohol\source\repos\SDP-StrategyDesignPattern\SDP-StrategyDesignPattern\bin\Debug\SDP-StrategyDesignPattern.exe.config
+C:\Users\rohol\source\repos\SDP-StrategyDesignPattern\SDP-StrategyDesignPattern\bin\Debug\SDP-StrategyDesignPattern.exe
+C:\Users\rohol\source\repos\SDP-StrategyDesignPattern\SDP-StrategyDesignPattern\bin\Debug\SDP-StrategyDesignPattern.pdb
+C:\Users\rohol\source\repos\SDP-StrategyDesignPattern\SDP-StrategyDesignPattern\obj\Debug\SDP-StrategyDesignPattern.csprojAssemblyReference.cache
+C:\Users\rohol\source\repos\SDP-StrategyDesignPattern\SDP-StrategyDesignPattern\obj\Debug\SDP-StrategyDesignPattern.exe
+C:\Users\rohol\source\repos\SDP-StrategyDesignPattern\SDP-StrategyDesignPattern\obj\Debug\SDP-StrategyDesignPattern.pdb
